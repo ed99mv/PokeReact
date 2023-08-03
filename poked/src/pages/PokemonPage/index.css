@@ -1,0 +1,82 @@
+.div1 {
+  text-align: center;
+  margin-bottom: 82%;
+}
+.tipos {
+  font-size: 40px;
+  display: flex;
+  text-align: center;
+  margin-left: 30%;
+
+}
+
+
+.listatipo {
+  margin-top: 5%;
+  font-size: 40px;
+  list-style: none
+
+}
+.nombre {
+  font-size: 40px;
+  text-transform: capitalize;
+  color: rgb(242, 222, 0);
+  margin-bottom: 80%;
+
+}
+.pokebuscado {
+  width: 300px;
+  height: 250px;
+}
+.divgrande {
+  padding: 80px;
+  margin-left: 12%;
+  width: 70%;
+  border: solid;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  background-color: rgba(240, 255, 255, 0.276);
+  background: linear-gradient(to right, rgba(0, 0, 255, 0.08), rgba(255, 192, 203, 0.502));
+  background-size: cover;
+}
+.evolucion {
+  text-transform: capitalize;
+  font-size: 20px;
+  color: aliceblue;
+}
+.imgEvolucion {
+  width: 200px;
+  height: 200px;
+}
+.spantipo {
+  font-size: 40px;
+  color: rgb(221, 197, 210);
+  margin-right: 60%;
+}
+a:link,
+a:visited,
+a:active {
+  text-decoration: none;
+}
+.btnRegresar {
+  border: solid;
+  padding: 15px 40px;
+  font-family: inherit;
+  background-color: var(--color-primary);
+  color: #e6d6d6;
+  border-radius: 10px;
+  cursor: pointer;
+  position: relative;
+  margin-top: 60%;
+  margin-right: 00px;
+  background-color: #23384e7c;
+}
+.datos{
+  font-size: 30px;
+  margin-bottom: 60%;
+  color: yellow;
+}

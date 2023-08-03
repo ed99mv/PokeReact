@@ -1,0 +1,47 @@
+.img-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+
+.btn {
+  border: solid;
+  padding: 15px 40px;
+  font-family: inherit;
+  background-color: var(--color-primary);
+  color: aliceblue;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+body {
+  background-image: url(https://ar.happyvalentinesday2020.online/pics/wallpapercave.com/wp/wp2392306.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.btn-container {
+  position: relative;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  gap: 20px;
+  margin-left: 208%;
+}
+
+.img {
+  gap: 40px;
+  background-image: url(https://www.hdwallpapers.in/download/fondo_de_pantalla_guay_hd_pokemon-1920x1080.jpg);
+  background: linear-gradient(rgb(5, 5, 5), rgb(252, 213, 213));
+}
+span {
+  color: aliceblue;
+  text-transform: capitalize;
+}
+.gifsquirlt {
+  width: 200px;
+  height: 200px;
+}
+img {
+  width: 200px;
+  height: 100px;
+}
